@@ -128,5 +128,6 @@ Key fields included:
 ---
 
 📊 **Tableau Public Dashboard:** [Spotify Project](https://public.tableau.com/views/SpotifyProject_17534541379890/DB1_KPIOverview?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ✍️ **Author:** Thomas Jortzig  
 📅 **Date:** July 2025
