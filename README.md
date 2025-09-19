@@ -117,12 +117,12 @@ Key fields included:
 ## Repository Structure
 
 - **data/**
-  - `spotifyData_cleanFinal.xlsx` – cleaned and enriched dataset  
+  - [spotifyData_cleanFinal.xlsx](data/spotifyData_cleanFinal.xlsx) – cleaned and enriched dataset  
 - **reports/**
-  - `SpotifyProject_ScopeOfWork_Designplan Phase1.pdf` – scope of work & design plan  
-  - `SpotifyProject_Final Report.pdf` – final report with insights & recommendations  
+  - [SpotifyProject_ScopeOfWork_Designplan_Phase1.pdf](reports/SpotifyProject_ScopeOfWork_Designplan_Phase1.pdf) – scope of work & design plan  
+  - [SpotifyProject_Final_Report.pdf](reports/SpotifyProject_Final_Report.pdf) – final report with insights & recommendations  
 - **dashboards/**
-  - `Tableau_Public_Link.txt` – link to published Tableau dashboard  
+  - [Tableau_Public_Link.txt](dashboards/Tableau_Public_Link.txt) – link to published Tableau dashboard  
 - **README.md** – project documentation (this file)
 
 ---
