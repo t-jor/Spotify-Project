@@ -52,11 +52,11 @@ Key fields included:
    - Implemented formulas for ARPU, LTV, CAC, LTV/CAC Ratio  
    - Validated results against existing benchmarks  
 
-3. **Scope of Work & Design Plan (Phase 1)**:contentReference[oaicite:0]{index=0}  
+3. **Scope of Work & Design Plan (Phase 1)**
    - Defined stakeholder questions and KPIs  
    - Mapped deliverables and milestones (Dashboard, Report, Recording)  
 
-4. **Dashboard Design (Phase 2)**:contentReference[oaicite:1]{index=1}  
+4. **Dashboard Design (Phase 2)**
    - **Overview Dashboard** – High-level KPIs for Strategy (Sarah)  
    - **User Details Dashboard** – Detailed ARPU, MAU, LTV/CAC for Revenue (Mark)  
    - **Cost Structure Dashboard** – Cost breakdown and efficiency analysis for Operations (Olivia)  
